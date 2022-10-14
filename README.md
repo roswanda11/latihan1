@@ -33,44 +33,40 @@ KELAS: TI.22.A.3
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/115516632/195783811-48c83730-fafd-47ef-864f-a0f8f4c5d3c3.png)
 
-8. Lalu kita dapat mengedit file tersebut dengan comman nano
-
-![Screenshot (13)](https://user-images.githubusercontent.com/115516632/195784075-5f6889da-7465-463b-89a1-df91d11cf522.png)
-
-9. Kemudian ketik sesuai keinginan kita contohnya "Latihan menjalankan VCS"
+8. Kemudian ketik sesuai keinginan kita contohnya "Latihan menjalankan VCS"
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/115516632/195784710-b0439777-0f29-488e-bff1-da848ca559ff.png)
 
-10. Untuk menyimpan perubahan kita dengan menggunakan perintah "git commit"
+9. Untuk menyimpan perubahan kita dengan menggunakan perintah "git commit"
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/115516632/195785801-d7d8e16c-669b-48cd-bed5-4298f166e6fd.png)
 
-11. Buatlah repository baru dengan menggunakan github.com kemudian pilih menu icon diatas kanan dan klik new repository
+10. Buatlah repository baru dengan menggunakan github.com kemudian pilih menu icon diatas kanan dan klik new repository
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/115516632/195789826-addce376-6253-4b7f-a0a9-c98e82e5dc0b.png)
 
-12. Buatlah repository baru dengan nama sesuai keinginan kita contohnya "Latihan VCS"
+11. Buatlah repository baru dengan nama sesuai keinginan kita contohnya "Latihan VCS"
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/115516632/195805239-52369241-03cb-49dc-ba9e-3ef8916fe4f3.png)
 
-13. Untuk menambahkan repository jarak jauh kita bisa menggunakan perintah "git remote add origin [url]" dan gunakan perintah "git push -u origin master" untuk mengirim perubahan pada repository lokal ke server
+12. Untuk menambahkan repository jarak jauh kita bisa menggunakan perintah "git remote add origin [url]" dan gunakan perintah "git push -u origin master" untuk mengirim perubahan pada repository lokal ke server
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/115516632/195807421-1f73d9f2-31b4-4d9e-8080-d0de56b37232.png)
 
-14. Ketik "git push -u origin master" untuk mengupload github
+13. Ketik "git push -u origin master" untuk mengupload github
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/115516632/195808503-d2d7c18d-13b7-4114-b9ca-e7b45e28d418.png)
 
-15. Kemudian kita lakukan konfirmasi dengan memasukkan kata sandi
+14. Kemudian kita lakukan konfirmasi dengan memasukkan kata sandi
 
+![Screenshots (25)](https://user-images.githubusercontent.com/115516632/195814568-be54e6db-468b-4d63-b0a9-a7af93715e8b.jpg)
 
+15. Jika berhasil maka tampilannya akan seperti di bawah ini
 
-16. Jika berhasil maka tampilannya akan seperti di bawah ini
+![Screenshot (24)](https://user-images.githubusercontent.com/115516632/195812300-56f4a395-08b0-45fe-9c41-2f949447fe47.png)
 
-
-
-17. Setelah itu gunakan "git clone" untuk mengcopy repository server
+16. Setelah itu gunakan "git clone" untuk mengcopy repository server
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/115516632/195810220-3107eb3a-3589-4fe3-b7c8-7d7d0240b6a3.png)
 
-
+==========DEMIKIAN TUTORIAL CARA MEMBUAT REPOSITOR==========
