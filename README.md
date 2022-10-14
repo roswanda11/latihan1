@@ -47,6 +47,11 @@ KELAS: TI.22.A.3
 
 11. Buatlah repository baru dengan menggunakan github.com kemudian pilih menu icon diatas kanan dan klik new repository
 
+![Screenshot (20)](https://user-images.githubusercontent.com/115516632/195789826-addce376-6253-4b7f-a0a9-c98e82e5dc0b.png)
+
+12. Buatlah repository baru dengan nama sesuai keinginan kita contohnya "Latihan VCS"
 
 
+
+13. 
 
