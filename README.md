@@ -29,7 +29,6 @@ KELAS: TI.22.A.3
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/115516632/195783027-869c3e65-6c44-4404-b005-4d997ca1c56e.png)
 
-
 7. Lalu tambahkan file dengan menggunakan perintah "git add"
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/115516632/195783811-48c83730-fafd-47ef-864f-a0f8f4c5d3c3.png)
@@ -46,7 +45,7 @@ KELAS: TI.22.A.3
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/115516632/195785801-d7d8e16c-669b-48cd-bed5-4298f166e6fd.png)
 
-11. Lalu buat repository baru dengan menggunakan github.com kemudian pilih menu icon diatas kanan dan klik new repository
+11. Buatlah repository baru dengan menggunakan github.com kemudian pilih menu icon diatas kanan dan klik new repository
 
 
 
